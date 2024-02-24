@@ -1,0 +1,15 @@
+/Users/tasidorowa/Desktop/обучение разработчик/языки программирования/seminar3/task2/bin/Debug/net8.0/task2
+/Users/tasidorowa/Desktop/обучение разработчик/языки программирования/seminar3/task2/bin/Debug/net8.0/task2.deps.json
+/Users/tasidorowa/Desktop/обучение разработчик/языки программирования/seminar3/task2/bin/Debug/net8.0/task2.runtimeconfig.json
+/Users/tasidorowa/Desktop/обучение разработчик/языки программирования/seminar3/task2/bin/Debug/net8.0/task2.dll
+/Users/tasidorowa/Desktop/обучение разработчик/языки программирования/seminar3/task2/bin/Debug/net8.0/task2.pdb
+/Users/tasidorowa/Desktop/обучение разработчик/языки программирования/seminar3/task2/obj/Debug/net8.0/task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tasidorowa/Desktop/обучение разработчик/языки программирования/seminar3/task2/obj/Debug/net8.0/task2.AssemblyInfoInputs.cache
+/Users/tasidorowa/Desktop/обучение разработчик/языки программирования/seminar3/task2/obj/Debug/net8.0/task2.AssemblyInfo.cs
+/Users/tasidorowa/Desktop/обучение разработчик/языки программирования/seminar3/task2/obj/Debug/net8.0/task2.csproj.CoreCompileInputs.cache
+/Users/tasidorowa/Desktop/обучение разработчик/языки программирования/seminar3/task2/obj/Debug/net8.0/task2.sourcelink.json
+/Users/tasidorowa/Desktop/обучение разработчик/языки программирования/seminar3/task2/obj/Debug/net8.0/task2.dll
+/Users/tasidorowa/Desktop/обучение разработчик/языки программирования/seminar3/task2/obj/Debug/net8.0/refint/task2.dll
+/Users/tasidorowa/Desktop/обучение разработчик/языки программирования/seminar3/task2/obj/Debug/net8.0/task2.pdb
+/Users/tasidorowa/Desktop/обучение разработчик/языки программирования/seminar3/task2/obj/Debug/net8.0/task2.genruntimeconfig.cache
+/Users/tasidorowa/Desktop/обучение разработчик/языки программирования/seminar3/task2/obj/Debug/net8.0/ref/task2.dll
